@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a senior undergraduate student majoring in Computer Science at School of Computer Science and Chu Kochen Honors College, Zhejiang University. My research lies at the intersection between Graphics, 3D Vision, and Machine Learning. I'm especially interested in scene understanding through inverse graphics and digital human reconstruction.
+
+During my undergraduate, I was fortunate to work closely with Prof. Xiaowei Zhou on several research projects. In the past few months, I've spent a wonderful summer visiting Stanford University, advised by Prof. Jiajun Wu.
+
+Please visit my homepage(https://chen-geng.com) for more information!
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrMorning)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMorning)](https://github.com/anuraghazra/github-readme-stats)
 
