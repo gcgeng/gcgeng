@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a senior undergraduate student majoring in Computer Science at School of Computer Science and Chu Kochen Honors College, Zhejiang University. My research lies at the intersection between Graphics, 3D Vision, and Machine Learning. I'm especially interested in scene understanding through inverse graphics and digital human reconstruction.
+I'm a senior undergraduate student majoring in Computer Science at [School of Computer Science](http://www.en.cs.zju.edu.cn/) and [Chu Kochen Honors College](http://ckc.zju.edu.cn/ckcen/), [Zhejiang University](http://zju.edu.cn/). My research lies at the intersection between Graphics, 3D Vision, and Machine Learning. I'm especially interested in *scene understanding through inverse graphics* and *digital human reconstruction*.
 
-During my undergraduate, I was fortunate to work closely with Prof. Xiaowei Zhou on several research projects. In the past few months, I've spent a wonderful summer visiting Stanford University, advised by Prof. Jiajun Wu.
+During my undergraduate, I was fortunate to work closely with [Prof. Xiaowei Zhou](http://xzhou.me/) on several research projects. In the past few months, I've spent a wonderful summer visiting [Stanford University](https://stanford.edu/), advised by [Prof. Jiajun Wu](https://jiajunwu.com/).
 
 Please visit my homepage(https://chen-geng.com) for more information!
 
