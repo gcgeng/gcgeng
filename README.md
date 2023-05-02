@@ -4,8 +4,6 @@ I'm an incoming CS Ph.D. student at [Stanford](https://cs.stanford.edu). Current
 
 If you happen to find any shared research interests, don't hesitate to shoot me an email. I'm always up for potential collaborations.
 
-Please visit my homepage(https://chen-geng.com) for more information!
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MrMorning)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrMorning)](https://github.com/anuraghazra/github-readme-stats)
 
