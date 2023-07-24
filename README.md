@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an (incoming) CS Ph.D. student at Stanford, advised by Prof. Jiajun Wu. My research lies at the intersection between Graphics, 3D Vision, and Machine Learning. Previously, I got my bachelor's degree in Computer Science at the School of Computer Science and Chu Kochen Honors College, Zhejiang University. During my undergraduate, I was fortunate to work closely with Prof. Xiaowei Zhou and Prof. Jiajun Wu on several research projects.
+I'm a CS Ph.D. student at Stanford, advised by Prof. Jiajun Wu. My research lies at the intersection between Graphics, 3D Vision, and Machine Learning. Previously, I got my bachelor's degree in Computer Science at the School of Computer Science and Chu Kochen Honors College, Zhejiang University. During my undergraduate, I was fortunate to work closely with Prof. Xiaowei Zhou and Prof. Jiajun Wu on several research projects.
 
 You can find more information on my homepage: https://chen-geng.com
 
